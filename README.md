@@ -1,6 +1,6 @@
 # ds-covid19-nl
 
-Analyses and visualizations used in this [study/paper/presentation] were produced with the Giovanni online data system, developed and maintained by the NASA GES DISC.
+Analyses and visualizations used in this [study/presentation] were produced with the Giovanni online data system, developed and maintained by the NASA GES DISC.
 
 This is a hobby project on combining different data sources and examining their relation.
 
